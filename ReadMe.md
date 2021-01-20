@@ -1,7 +1,7 @@
 - 💬 I'm StormTian.
 - 🔭 I’m currently working on Java Development.
-- ⚡ I’m looking forward to working at **bytedance**.
-- 🌱 I want to be *RichTian* .
+- ⚡ I’m working for my dreams.
+- 🌱 I want to be a better man.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StormTian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
