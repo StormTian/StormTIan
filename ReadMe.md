@@ -11,8 +11,7 @@
 #### 🏊‍♂️ <a>Weekly Development Breakdown</a>
 <!--START_SECTION:waka-->
 ```text
-Java   2 hrs 48 mins   ████████████████████▓░░░░   82.72 % 
-XML    35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
